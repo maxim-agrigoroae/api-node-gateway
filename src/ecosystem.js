@@ -1,5 +1,5 @@
 const config = require('config');
-const constants = require('api-node-common/constants');
+const constants = require('api-node-common/resources/constants');
 
 module.exports = new Map([
   // '/api/example', '0.0.0.0:3001'
